@@ -1,7 +1,7 @@
 # Shellscribe
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-BSD--3--Clause-green.svg)
+![License](https://img.shields.io/github/license/saltstack/salt)
 
 **Shellscribe** is a documentation generator for shell scripts. It extracts specially formatted comments from your bash scripts and generates clear, structured, and professional documentation in Markdown format.
 
